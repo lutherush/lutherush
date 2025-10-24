@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Velimir
 
 ## ⚡ About Me
-- 🚀 CISO & Red Team Leader | Linux Kernel Developer | Engineer  
+- 🚀 CISO & Red Team Leader | Linux Kernel Developer | Engineer  | Stoic
 - 💻 Living and breathing **Gentoo Linux** since 1998 (Mandrake → Debian → Slackware → Arch → Gentoo)  
-- 🎸 Passionate **metalhead** & vinyl collector (favorites: Metallica, Iron Maiden, Amorphis, Insomnium, Opeth, Paradise Lost)  
+- 🎸 Passionate **metalhead** & vinyl collector (favorites: Death Metal, Thrash Metal, Prog Death, Melo Death)  
 - 🖤 Functional programming enthusiast (C, C++, Rust, Haskell, Lisp, Zig, Lua)  
 - 🔒 Security-first mindset: from kernel hardening to large-scale Kubernetes deployments  
 - ⚙️ Obsessed with **self-hosting** — running multi-cluster Kubernetes, GitLab CI/CD, Traefik, MinIO, Keycloak, and more  
@@ -48,15 +48,7 @@
   - *Death – Symbolic*  
   - *On Thorns I Lay – Gold Vinyl #61/200*  
 
----
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=boss&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boss&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=boss&theme=radical)
-
----
 
 ## 🌍 Connect With Me
 
