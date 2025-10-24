@@ -1,4 +1,4 @@
-# 👋 Hi, I’m boss
+# 👋 Hi, I’m Velimir
 
 ## ⚡ About Me
 - 🚀 CISO & Red Team Leader | Linux Kernel Developer | Engineer  
